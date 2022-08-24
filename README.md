@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Ventoxy
-- 👀 I’m interested in  Ser um desenvolver de jogos profissional.
-- 🌱 I’m currently learning  JavaScript, Python, Lua
-- 💞️ I’m looking to collaborate on  Meu jogo.
-- 📫 How to reach me  Estou sempre no discord.
+<!--
 
-<!---
-Ventoxy/Ventoxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+:)
+
+-->
+
+## Hi, I am ventoxy! 👻
+
+### Contact Me [<img align="left" alt="nash | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/8JdgHbUMNP)
+
+## I'm 15 years old and I'm a game cheat developer and I do reverse engineering!
+-   👨‍💻 C# / C++ / Js / Python / Batch / Html
+-   ✏️ Where there is an implication, there is love.
+-   👻 I am dev of cheats and phishing.
+-   💭 If you need me, contact me on discord: nash#1337
+
+### Tools:
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
