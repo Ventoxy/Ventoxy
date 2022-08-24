@@ -12,7 +12,7 @@
 -   👨‍💻 C# / C++ / Js / Python / Batch / Html
 -   ✏️ Where there is an implication, there is love.
 -   👻 I am dev of cheats and phishing.
--   💭 If you need me, contact me on discord: nash#1337
+-   💭 If you need me, contact me on discord: ventoxy#0655
 
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
